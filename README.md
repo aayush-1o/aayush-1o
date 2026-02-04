@@ -47,10 +47,3 @@
 
 ---
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayush-1o&show_icons=true&locale=en&layout=compact" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayush-1o&show_icons=true&locale=en" />
-</p>
