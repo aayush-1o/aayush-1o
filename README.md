@@ -1,21 +1,47 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
-<h3 align="center">Full Stack Developer in Progress | Building Automation Systems</h3>
+<h3 align="center">Full Stack Developer in Progress | Building AI & Automation Systems</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=aayush-1o&label=Profile%20views&color=0e75b6&style=flat" alt="aayush-1o" />
 </p>
 
-- 🔭 I’m currently working on a **Job & Internship Automation Platform**
+---
 
-- 🌱 I’m currently learning **Backend Development & DSA in C++**
+### 🚀 About Me
 
-- 👯 I’m looking for **internship opportunities & mentorship**
+- 🔭 Currently building a **Job & Internship Automation Platform**
 
-- 💬 Ask me about **Data Structures & Algorithms**
+- 🧠 Built **AutoPrompt — AI-powered prompt optimization system** improving LLM extraction accuracy by **20%**  
+  👉 Project: https://github.com/aayush-1o/auto-Prompt
+
+- 🧩 Solved **200+ problems on LeetCode**, actively strengthening problem-solving & DSA skills  
+  👉 Profile: https://leetcode.com/u/tZbaWZwiWk/
+
+- 🌱 Currently learning **Backend Development & scalable systems**
+
+- 👯 Looking for **internship opportunities & mentorship**
+
+- 💬 Ask me about **Data Structures, Backend Development & Automation Systems**
 
 - 📫 Reach me at **Ayushh.pvt10@gmail.com**
 
-- ⚡ Fun fact: **I may reply late sometimes, but I always reply**
+- ⚡ Fun fact: **I think I'm funny**
+
+
+---
+
+### 🧠 Featured Project — AutoPrompt
+
+**AutoPrompt: AI-Powered Prompt Optimization System**
+
+An intelligent system that automatically optimizes LLM prompts, achieving **20% higher extraction accuracy** compared to baseline methods.
+
+Key Highlights:
+
+- 🚀 Multi-variant prompt generation engine using Google Gemini AI
+- 🐳 Docker containerization for consistent deployment
+- 🧪 CI/CD pipelines via GitHub Actions with **29+ automated tests**
+- 🎨 Interactive UI built with Streamlit for real-time demos
 
 ---
 
@@ -24,7 +50,7 @@
 <a href="https://linkedin.com/in/ayushh-o1" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
-<a href="https://leetcode.com/u/TzbaWZwiWk/" target="blank">
+<a href="https://leetcode.com/u/tZbaWZwiWk/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
 </a>
 </p>
@@ -43,7 +69,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-</p>
-
----
-
+</p
