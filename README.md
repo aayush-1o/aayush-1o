@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
-<h3 align="center">Backend Developer in Progress | Building Automation Systems</h3>
+<h3 align="center">Full Stack Developer in Progress | Building Automation Systems</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=aayush-1o&label=Profile%20views&color=0e75b6&style=flat" alt="aayush-1o" />
