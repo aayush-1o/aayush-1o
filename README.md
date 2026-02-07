@@ -11,35 +11,47 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently Building: **Onboarder** — Automated developer onboarding platform
-- 🧠 Recently Shipped: **CortexGraph** — AI-driven knowledge graph platform
-- 💡 Passionate About: Backend architecture, AI integration, and developer productivity tools
-- 🧩 Problem Solver: **200+ LeetCode problems** solved | Strong DSA foundation
-- 🌱 Learning: Scalable backend systems, microservices, and cloud infrastructure
-- 💼 Seeking: **Internship opportunities** in Full Stack Development
+- 🔭 Currently Building: **[Onboarder](https://github.com/aayush-1o/Onboarder)** — MERN stack automation platform (Day 2 ✅, API & DB complete)
+- 🧠 Recently Shipped: **[CortexGraph](https://github.com/aayush-1o/CortexGraph)** — Production-ready AI knowledge graph with Neo4j & NLP
+- 💡 Passionate About: Backend architecture, AI/ML integration, and developer productivity automation
+- 🧩 Problem Solver: **200+ LeetCode problems** solved | Strong foundation in DSA
+- 🌱 Learning: Microservices architecture, Docker orchestration, and advanced NLP techniques
+- 💼 Seeking: **Internship opportunities** in Full Stack Development & Backend Engineering
 
 ---
 
 ## 💼 Featured Projects
 
 ### 🚀 [Onboarder](https://github.com/aayush-1o/Onboarder)
-**Automated Developer Onboarding Platform** | *In Progress*
+**Automated Developer Onboarding Platform** | *In Active Development*
 
-Eliminating project setup friction by automating dependency installation, environment configuration, and project initialization.
+Paste a GitHub URL, get a working Docker environment in minutes. Automates the entire developer onboarding process by handling dependency installation, environment configuration, and project initialization.
 
-- **Impact:** Reduces onboarding time from hours to minutes
-- **Tech Stack:** Node.js · Express · MongoDB · Docker · React
-- **Status:** Day 1 Complete | MVP Timeline: 10 Days
+- **Impact:** Eliminates hours of manual setup and environment debugging
+- **Current Progress:** Day 2 Complete ✅ | Backend API & Database fully functional
+- **Tech Stack:** 
+  - **Backend:** Node.js · Express · MongoDB · Mongoose
+  - **Frontend:** React 18 · Vite · Tailwind CSS
+  - **Infrastructure:** Docker · Docker Compose
+- **Timeline:** MVP in progress (10-day sprint)
 
 ---
 
 ### 🧠 [CortexGraph](https://github.com/aayush-1o/CortexGraph)
-**AI-Driven Knowledge Graph Platform**
+**AI-Driven Knowledge Graph Platform** | *Production Ready*
 
-Transform unstructured data into intelligent, interconnected knowledge networks with NLP-powered entity extraction and semantic search.
+Transforms unstructured data into intelligent, interconnected knowledge networks using NLP-powered entity extraction, semantic search, and interactive graph visualization.
 
-- **Features:** Real-time entity extraction · Semantic search · Interactive graph visualization
-- **Tech Stack:** Python · FastAPI · Neo4j · React · Docker · Google Gemini AI
+- **Key Features:** 
+  - Automatic entity & relationship extraction using state-of-the-art NLP
+  - Semantic search with sentence transformers
+  - Interactive D3.js graph visualization
+  - Neo4j graph database for complex relationship queries
+- **Tech Stack:**
+  - **Backend:** Python 3.11 · FastAPI · spaCy · Transformers · Sentence-Transformers · Neo4j
+  - **Frontend:** React 18 · D3.js · Material-UI
+  - **DevOps:** Docker · Docker Compose
+- **Status:** Fully deployed and functional
 
 ---
 
