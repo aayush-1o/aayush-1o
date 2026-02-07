@@ -1,72 +1,70 @@
-<h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
-<h3 align="center">Full Stack Developer in Progress | Building AI & Automation Systems</h3>
+# Ayush Kumar
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=aayush-1o&label=Profile%20views&color=0e75b6&style=flat" alt="aayush-1o" />
-</p>
+**Full Stack Developer | Building Automation & AI-Powered Solutions**
 
----
-
-### 🚀 About Me
-
-- 🔭 Currently building a **Job & Internship Automation Platform**
-
-- 🧠 Built **AutoPrompt — AI-powered prompt optimization system** improving LLM extraction accuracy by **20%**  
-  👉 Project: https://github.com/aayush-1o/auto-Prompt
-
-- 🧩 Solved **200+ problems on LeetCode**, actively strengthening problem-solving & DSA skills  
-  👉 Profile: https://leetcode.com/u/tZbaWZwiWk/
-
-- 🌱 Currently learning **Backend Development & scalable systems**
-
-- 👯 Looking for **internship opportunities & mentorship**
-
-- 💬 Ask me about **Data Structures, Backend Development & Automation Systems**
-
-- 📫 Reach me at **Ayushh.pvt10@gmail.com**
-
-- ⚡ Fun fact: **I think I'm funny**
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushh-o1)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Ayushh.pvt10@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/tZbaWZwiWk/)
 
 ---
 
-### 🧠 Featured Project — AutoPrompt
+## About
 
-**AutoPrompt: AI-Powered Prompt Optimization System**
-
-An intelligent system that automatically optimizes LLM prompts, achieving **20% higher extraction accuracy** compared to baseline methods.
-
-Key Highlights:
-
-- 🚀 Multi-variant prompt generation engine using Google Gemini AI
-- 🐳 Docker containerization for consistent deployment
-- 🧪 CI/CD pipelines via GitHub Actions with **29+ automated tests**
-- 🎨 Interactive UI built with Streamlit for real-time demos
+Passionate full-stack developer focused on building intelligent automation systems and developer productivity tools. Strong foundation in backend architecture, AI integration, and scalable systems design. 200+ LeetCode problems solved with expertise in data structures and algorithms.
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ayushh-o1" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://leetcode.com/u/tZbaWZwiWk/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-</a>
-</p>
+## Featured Projects
+
+### 🚀 [Onboarder](https://github.com/aayush-1o/Onboarder) — Automated Developer Onboarding Platform
+
+**Eliminating project setup friction through intelligent automation**
+
+Automates dependency installation, environment configuration, and project initialization to streamline developer onboarding.
+
+- **Impact:** Reduces onboarding time from hours to minutes
+- **Tech Stack:** Node.js · Express · MongoDB · Docker · React
+- **Status:** Active Development (Day 1 Complete | MVP Timeline: 10 Days)
+
+### 🧠 [CortexGraph](https://github.com/aayush-1o/CortexGraph) — AI-Driven Knowledge Graph Platform
+
+**Transform unstructured data into intelligent, interconnected knowledge networks**
+
+NLP-powered platform featuring automatic entity extraction, semantic search, and interactive graph visualization.
+
+- **Tech Stack:** Python · FastAPI · Neo4j · React · Docker · Google Gemini AI
+- **Features:** Real-time entity extraction, semantic search, interactive visualization
+
+### 🎯 [AutoPrompt](https://github.com/aayush-1o/auto-Prompt) — AI-Powered Prompt Optimization
+
+**Intelligent LLM prompt optimization achieving 20% higher extraction accuracy**
+
+Automated system for optimizing prompts with multi-variant generation, comprehensive testing, and real-time demonstration capabilities.
+
+- **Impact:** 20% improvement in extraction accuracy vs baseline
+- **Tech Stack:** Python · Streamlit · Google Gemini API · Docker · GitHub Actions
+- **Quality:** 29+ automated tests, full CI/CD pipeline, containerized deployment
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-</p
+## Technical Skills
+
+**Languages:** C · C++ · JavaScript · Python
+
+**Backend & Databases:** Node.js · Express.js · FastAPI · MongoDB · PostgreSQL · MySQL · Neo4j
+
+**Tools & DevOps:** Git · Docker · GitHub Actions · Postman · CI/CD Pipelines
+
+**AI & Data:** Google Gemini API · NLP · Semantic Search · Knowledge Graphs
+
+---
+
+## Current Focus
+
+🔭 **Building:** Onboarder — Developer automation platform (MVP in progress)  
+🌱 **Learning:** Microservices architecture, advanced backend design patterns, cloud infrastructure  
+💼 **Seeking:** Internship opportunities in Full Stack Development and Backend Engineering
+
+---
+
+**Let's connect and build something impactful together.**
