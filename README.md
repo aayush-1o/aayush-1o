@@ -2,9 +2,9 @@
 <h3 align="center">Full Stack Developer | Building Automation & AI-Powered Solutions</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ayushh-o1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushh-o1" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/tzbawzwiwk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tzbawzwiwk" height="30" width="40" /></a>
-  <a href="mailto:Ayushh.pvt10@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/ayushh-o1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushh-o1" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/tZbaWZwiWk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tZbaWZwiWk" height="30" width="40" /></a>
+  <a href="mailto:ayushh.pvt10@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="30" width="40" /></a>
 </p>
 
 ---
