@@ -1,96 +1,112 @@
-<h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
-<h3 align="center">Full Stack Developer | Building Automation & AI-Powered Solutions</h3>
+<div align="center">
+  
+# 👋 Hi, I'm Ayush Kumar
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ayushh-o1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushh-o1" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/tZbaWZwiWk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tZbaWZwiWk" height="30" width="40" /></a>
-  <a href="mailto:ayushh.pvt10@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="30" width="40" /></a>
-</p>
+### 💻 Full-Stack Developer | 🤖 AI Enthusiast | 🎓 CSE Student
+
+[![Status](https://img.shields.io/badge/Status-Available_for_Collaboration-success?style=flat-square&logo=github)](https://github.com/aayush-1o)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ayushh-o1/)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aayush.pvt10@gmail.com)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6B8CFF&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+web+applications;Exploring+AI+%26+Machine+Learning;Open+to+collaboration+%26+opportunities!" alt="Typing SVG" />
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently Building: **[Onboarder](https://github.com/aayush-1o/Onboarder)** — MERN stack automation platform (Day 2 ✅, API & DB complete)
-- 🧠 Recently Shipped: **[CortexGraph](https://github.com/aayush-1o/CortexGraph)** — Production-ready AI knowledge graph with Neo4j & NLP
-- 💡 Passionate About: Backend architecture, AI/ML integration, and developer productivity automation
-- 🧩 Problem Solver: **200+ LeetCode problems** solved | Strong foundation in DSA
-- 🌱 Learning: Microservices architecture, Docker orchestration, and advanced NLP techniques
-- 💼 Seeking: **Internship opportunities** in Full Stack Development & Backend Engineering
+🎓 3rd-year B.Tech CSE student passionate about creating impactful technology  
+💡 Building expertise in **Full-Stack Development**, **AI/ML**, and **Data Structures**  
+🌱 Currently diving deep into **Next.js**, **PostgreSQL**, and **Docker**  
+🏃♂️ When I'm not coding, you'll find me running or contributing to open-source  
+🤝 Always excited to collaborate on innovative projects and learn from the community
 
 ---
 
-## 💼 Featured Projects
+## 🛠️ Tech Arsenal
 
-### 🚀 [Onboarder](https://github.com/aayush-1o/Onboarder)
-**Automated Developer Onboarding Platform** | *In Active Development*
+<div align="center">
 
-Paste a GitHub URL, get a working Docker environment in minutes. Automates the entire developer onboarding process by handling dependency installation, environment configuration, and project initialization.
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-- **Impact:** Eliminates hours of manual setup and environment debugging
-- **Current Progress:** Day 2 Complete ✅ | Backend API & Database fully functional
-- **Tech Stack:** 
-  - **Backend:** Node.js · Express · MongoDB · Mongoose
-  - **Frontend:** React 18 · Vite · Tailwind CSS
-  - **Infrastructure:** Docker · Docker Compose
-- **Timeline:** MVP in progress (10-day sprint)
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+### Languages & Tools
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🧠 [CortexGraph](https://github.com/aayush-1o/CortexGraph)
-**AI-Driven Knowledge Graph Platform** | *Production Ready*
-
-Transforms unstructured data into intelligent, interconnected knowledge networks using NLP-powered entity extraction, semantic search, and interactive graph visualization.
-
-- **Key Features:** 
-  - Automatic entity & relationship extraction using state-of-the-art NLP
-  - Semantic search with sentence transformers
-  - Interactive D3.js graph visualization
-  - Neo4j graph database for complex relationship queries
-- **Tech Stack:**
-  - **Backend:** Python 3.11 · FastAPI · spaCy · Transformers · Sentence-Transformers · Neo4j
-  - **Frontend:** React 18 · D3.js · Material-UI
-  - **DevOps:** Docker · Docker Compose
-- **Status:** Fully deployed and functional
+</div>
 
 ---
 
-### 🎯 [AutoPrompt](https://github.com/aayush-1o/auto-Prompt)
-**AI-Powered Prompt Optimization System**
+## 📊 GitHub Analytics
 
-Intelligent system that automatically optimizes LLM prompts, achieving **20% higher extraction accuracy** compared to baseline methods.
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aayush-1o&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush-1o&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
-- **Impact:** 20% improvement in extraction accuracy
-- **Quality:** 29+ automated tests · Full CI/CD pipeline · Containerized deployment
-- **Tech Stack:** Python · Streamlit · Google Gemini API · Docker · GitHub Actions
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayush-1o&theme=tokyonight&hide_border=true" />
+</div>
 
----
-
-## 🛠️ Languages and Tools
-
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://neo4j.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg" alt="neo4j" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aayush-1o&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" />
+</div>
 
 ---
 
-<p align="center">
-  <i>Let's connect and build something impactful together!</i>
-</p>
+## 🎯 Current Focus
+```javascript
+const ayush = {
+    location: "India",
+    education: "B.Tech CSE (3rd Year)",
+    currentFocus: ["Full-Stack Development", "AI/ML", "System Design"],
+    learning: ["Next.js", "Docker", "Advanced Data Structures"],
+    interests: ["Open Source", "Cloud Technologies", "Running"],
+    askMeAbout: ["Web Dev", "DSA", "Tech Career", "Open Source"],
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
+```
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always open to interesting conversations and collaboration opportunities!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushh-o1/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aayush-1o)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayush.pvt10@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=aayush-1o&style=for-the-badge&color=blueviolet)
+![Followers](https://img.shields.io/github/followers/aayush-1o?style=for-the-badge&color=blue)
+
+### ⭐ *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+**Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out!** 🚀
+
+</div>
