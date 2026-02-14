@@ -1,40 +1,51 @@
-# Ayush Kumar
+<h1 align="center">Ayush Kumar</h1>
+<h3 align="center">Full-Stack Developer | B.Tech CSE (3rd Year) | India</h3>
 
-**Full-Stack Developer** | B.Tech CSE (3rd Year) | India
+<p align="center">
+  Building scalable backend systems and automation tools. Experienced in full-stack development with Node.js, MongoDB, React, and Python. Strong foundation in data structures and algorithms.
+</p>
 
-Building scalable backend systems and automation tools. Experienced in full-stack development with Node.js, MongoDB, React, and Python. Strong foundation in data structures and algorithms.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushh-o1/) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/tzbawzwiwk) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aayush.pvt10@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayushh-o1/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/tzbawzwiwk" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+  <a href="mailto:ayushh.pvt10@gmail.com">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 Current Project
 
 **[Onboarder](https://github.com/aayush-1o/Onboarder)** — Automated developer onboarding platform  
-Automates environment setup and project initialization. Paste a GitHub URL, get a configured Docker workspace instantly.
+Streamlines project setup by automating environment configuration and workspace initialization. Paste a GitHub URL, get a configured Docker workspace instantly.
 
-- Eliminates manual setup and environment debugging
-- Workspace tracking and job management system
-- **Stack:** Node.js, Express, MongoDB, React, Tailwind CSS, Docker
+- Automates repetitive onboarding workflows
+- API-driven architecture with workspace/job tracking
+- **Tech:** Node.js, Express, MongoDB, React, Tailwind CSS, Docker
 
 ---
 
 ## 💼 Featured Projects
 
 ### [CortexGraph](https://github.com/aayush-1o/CortexGraph)
-Full-stack knowledge management platform with structured data relationships and secure authentication.
-- JWT-based authentication with role management
+Full-stack data management platform with structured relationships and secure authentication.
+- Secure JWT authentication and role management
 - RESTful API with comprehensive validation
-- Responsive web interface with modern UI
-- **Stack:** Node.js, Express, MongoDB, JWT, Tailwind CSS
+- Responsive web interface
+- **Tech:** Node.js, Express, MongoDB, JWT, Tailwind CSS
 
 ### [auto-Prompt](https://github.com/aayush-1o/auto-Prompt)
-Python automation tool for optimizing prompt generation workflows, streamlining AI task automation through scripting.
-- **Stack:** Python, Jupyter Notebook
+Python automation tool for optimizing prompt generation workflows to streamline AI task automation.
+- **Tech:** Python, Jupyter Notebook
 
 ### [truck](https://github.com/aayush-1o/truck)
-Logistics application for transport workflow and operational data management.
-- **Stack:** JavaScript, Python, CSS
+Logistics workflow management application for transport operations and data handling.
+- **Tech:** JavaScript, Python, CSS
 
 ---
 
@@ -44,9 +55,16 @@ Logistics application for transport workflow and operational data management.
 **Backend:** Node.js, Express, REST APIs  
 **Frontend:** React, HTML, CSS, Tailwind CSS  
 **Databases:** MongoDB, SQL  
-**Tools:** Git, Docker, Postman, JWT Authentication  
-**DSA:** 200+ problems solved on LeetCode
+**Tools:** Git, Docker, Postman, JWT  
+**DSA:** 200+ LeetCode problems solved
 
 ---
 
-**Open to:** Software Development Internships | Backend Engineering Roles | Full-Stack Positions
+<p align="center">
+  <b>Open to:</b> Software Development Internships | Backend Engineering | Full-Stack Roles
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aayush-1o&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush-1o&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165">
+</p>
