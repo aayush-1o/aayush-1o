@@ -89,14 +89,7 @@ Python automation tool for optimizing prompt generation workflows.
 - **Tech Stack:** Python, Jupyter Notebook
 - **Features:** AI workflow automation
 
----
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aayush-1o&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush-1o&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165">
-</p>
 
 ---
 
