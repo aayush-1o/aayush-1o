@@ -8,7 +8,7 @@ Building scalable backend systems and automation tools. Experienced in full-stac
 
 ---
 
-## � Current Project
+## 🚀 Current Project
 
 **[Onboarder](https://github.com/aayush-1o/Onboarder)** — Automated developer onboarding platform  
 Automates environment setup and project initialization. Paste a GitHub URL, get a configured Docker workspace instantly.
