@@ -1,31 +1,29 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E57F7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey+there%2C+I'm+Ayush+Kumar+%F0%9F%91%8B;Backend+Dev+%7C+API+Builder+%7C+Tool+Maker" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6E57F7&center=true&vCenter=true&multiline=true&width=620&height=100&lines=Hey%2C+I'm+Ayush+Kumar+%F0%9F%91%8B;Backend+Dev+%7C+API+Builder+%7C+Tool+Maker" alt="Typing SVG" />
 
 <br/>
 
 <!-- Open to Work Badge -->
-<img src="https://img.shields.io/badge/🟢_Open_to-Internships_2025--26-6E57F7?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to-Internships%202025--26-6E57F7?style=for-the-badge&labelColor=1a1a2e" alt="Open to Internships" />
 
 <br/><br/>
 
 <!-- Social Links -->
-<a href="https://www.linkedin.com/in/ayushh-o1/">
+<a href="https://linkedin.com/in/ayushh-o1">
   <img src="https://img.shields.io/badge/LinkedIn-Ayush_Kumar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://leetcode.com/tzbawzwiwk">
-  <img src="https://img.shields.io/badge/LeetCode-tzbawzwiwk-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+<a href="https://leetcode.com/u/tZbaWZwiWk/">
+  <img src="https://img.shields.io/badge/LeetCode-tZbaWZwiWk-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
 </a>
 &nbsp;
-<a href="mailto:ayushh.pvt10@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-ayushh.pvt10-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+<a href="mailto:ayushh.ofc10@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-ayushh.ofc10-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=aayush-1o&label=Profile+Views&color=6E57F7&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=aayush-1o&color=blue&style=flat-square" alt="Profile Views" />
 
 </div>
 
@@ -33,15 +31,14 @@
 
 ## 🧠 About Me
 
-I'm a **3rd-year B.Tech CSE student** from Bangalore, India, obsessed with building things that actually work — whether that's a backend API, an automation tool, or a developer platform.
+I'm a **3rd-year B.Tech CSE student** from Bangalore. I build backend systems, REST APIs, and developer tools — the kind of software that other developers actually use.
 
-I don't just write code. I think about **why** things are built, **how** they scale, and **what problem** they genuinely solve. Right now I'm focused on backend systems, RESTful APIs, and developer tooling.
+My engineering mindset: understand the problem deeply before writing a single line. Currently building production-grade projects that go beyond tutorials.
 
-- 🔭 Building **[Onboarder](https://github.com/aayush-1o/Onboarder)** — automates the painful dev environment setup process
-- ⚙️ Working on **[CortexGraph](https://github.com/aayush-1o/CortexGraph)** — structured data platform with JWT auth + REST APIs
-- 🧩 Practicing **DSA** consistently on LeetCode
-- 💼 Actively seeking **SWE / Backend / Full-Stack Internships (2025-2026)**
-- 📍 Based in **Bangalore, India**
+- 🔭 **Onboarder** — automating the painful 4-hour dev environment setup process
+- ⚙️ **CortexGraph** — full-stack data platform with JWT auth and clean API design
+- 🎯 Solving DSA problems on LeetCode (Arrays, Graphs, DP, Trees)
+- 📍 Bangalore, India | Available for **SWE / Backend / Full-Stack Internships**
 
 ---
 
@@ -52,15 +49,15 @@ I don't just write code. I think about **why** things are built, **how** they sc
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=aayush-1o&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=aayush-1o&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayush-1o&theme=tokyonight&hide_border=true" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayush-1o&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush-1o&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush-1o&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
 
@@ -87,7 +84,6 @@ I don't just write code. I think about **why** things are built, **how** they sc
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Databases**
 
@@ -101,59 +97,66 @@ I don't just write code. I think about **why** things are built, **how** they sc
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🤖 [Onboarder](https://github.com/aayush-1o/Onboarder)
-> *Joining a new project shouldn't take a full day. Onboarder automates the entire dev environment setup process.*
+> *Dev environment setup takes hours. It shouldn't.*
 
-Setting up a new developer's environment can take 4+ hours of Slack messages and broken instructions. Onboarder solves this with an automated, API-driven onboarding platform that provisions workspaces and tracks setup state.
+Every new team member spends 4+ hours chasing Slack messages and broken setup docs just to run the project locally. Onboarder automates that — an API-driven platform that provisions, tracks, and validates the entire workspace configuration process.
 
-**Tech Stack:** `Node.js` `Express` `MongoDB` `React` `Docker`  
-**Highlights:** Automated workflow engine · Workspace state tracking · API-first architecture
+`Node.js` `Express` `MongoDB` `React` `Docker`
+
+- ⚡ Automated workflow engine for sequential setup steps
+- 📦 Workspace state tracking across environments
+- 🔌 API-first architecture — headless-friendly
 
 ---
 
 ### 🕸️ [CortexGraph](https://github.com/aayush-1o/CortexGraph)
-> *A full-stack platform for managing structured data with secure authentication and clean API design.*
+> *A production-patterned full-stack app — built to go beyond tutorials.*
 
-Built to explore how real applications handle data relationships and auth at scale. Features JWT-based auth, RESTful endpoints, and a responsive UI — engineered with production patterns in mind.
+Built to explore how real applications handle data relationships, authentication, and API design at scale. Features JWT-based auth, RESTful endpoints designed around resource ownership, and a clean responsive UI.
 
-**Tech Stack:** `Node.js` `Express` `MongoDB` `JWT` `Tailwind CSS`  
-**Highlights:** Secure auth system · RESTful API design · Responsive frontend
+`Node.js` `Express` `MongoDB` `JWT` `Tailwind CSS`
+
+- 🔐 Secure JWT authentication with token refresh logic
+- 🌐 RESTful API design with proper status codes and error handling
+- 📱 Responsive frontend built against real API contracts
 
 ---
 
 ### ⚡ [auto-Prompt](https://github.com/aayush-1o/auto-Prompt)
-> *Automates repetitive AI prompt generation workflows so you stop doing the same thing twice.*
+> *Stop rewriting the same AI prompts manually.*
 
-A Python tool for optimizing and automating LLM prompt pipelines — useful for anyone doing repeated AI workflow tasks.
+A Python tool that automates repetitive LLM prompt generation workflows. If you're running the same prompt structure repeatedly with minor variations, this handles it — systematically.
 
-**Tech Stack:** `Python` `Jupyter Notebook`  
-**Highlights:** AI workflow automation · Prompt optimization
+`Python` `Jupyter Notebook`
+
+- 🔄 Automated prompt variation and batching
+- 🧪 Designed for iterative AI workflow testing
 
 ---
 
-## 📈 DSA & Problem Solving
+## 📈 DSA Progress
 
-<div align="center">
+Consistently solving problems across **Arrays, Strings, Trees, Graphs, and Dynamic Programming**.
 
-[![LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/tzbawzwiwk?theme=dark)](https://leetcode.com/tzbawzwiwk)
-
-</div>
-
-Consistently solving problems across **Arrays, Strings, Graphs, DP, and Trees**. Focused on building the algorithmic foundation needed for technical interviews.
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/tZbaWZwiWk/)
 
 ---
 
 ## 🌱 Currently Exploring
 
-- **System Design** — Learning how large-scale distributed systems are architected
-- **PostgreSQL** — Moving beyond MongoDB for relational use cases
-- **CI/CD Pipelines** — GitHub Actions + Docker for deployment automation
-- **Microservices** — Breaking monoliths into scalable service boundaries
+| Topic | Why |
+|---|---|
+| **System Design** | Understanding how to architect things that scale |
+| **PostgreSQL** | Relational modeling for structured data problems |
+| **CI/CD Pipelines** | GitHub Actions + Docker for automated deployments |
+| **Microservices** | How to break a monolith without breaking everything |
 
 ---
 
@@ -161,17 +164,17 @@ Consistently solving problems across **Arrays, Strings, Graphs, DP, and Trees**.
 
 <div align="center">
 
-I'm actively looking for **SWE / Backend / Full-Stack internship opportunities** for 2025-2026.  
-If you're hiring, collaborating, or just want to talk tech — my inbox is open.
+Looking for **Backend / Full-Stack / SWE internships for 2025-2026**.  
+If you're hiring or want to collaborate, reach out — I respond fast.
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushh-o1/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushh.pvt10@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushh-o1)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushh.ofc10@gmail.com)
 
 <br/>
 
-*"Extremely curious about how things work — and obsessed with building things that actually do."*
+<sub>*"Extremely curious about how things work — and obsessed with building things that actually do."*</sub>
 
 </div>
