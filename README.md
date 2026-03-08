@@ -40,13 +40,11 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/github-stats.png" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aayush-1o&show_icons=true&theme=default&border_color=0077B6&title_color=0077B6&icon_color=0077B6&hide_border=false" height="180" />
 &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/toplanguage.png" alt="Top Languages" height="180"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=aayush-1o&theme=default&ring=0077B6&fire=0077B6&currStreakLabel=0077B6&hide_border=true" alt="GitHub Streak" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush-1o&layout=compact&theme=default&border_color=0077B6&title_color=0077B6&hide_border=false" height="180" />
+&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com/?user=aayush-1o&theme=default&ring=0077B6&fire=0077B6&currStreakLabel=0077B6" height="180" />
 
 </div>
 
@@ -58,23 +56,10 @@
 ## 🏆 Competitive Programming
 
 <img src="https://leetcard.jacoblin.cool/tZbaWZwiWk?theme=light&font=Nunito&ext=contest" alt="LeetCode Stats" width="420"/>
-
-<br/><br/>
-
+<br/>
 [![LeetCode](https://img.shields.io/badge/LeetCode-tZbaWZwiWk-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/tZbaWZwiWk/)
 [![GFG](https://img.shields.io/badge/GeeksforGeeks-ayushhh0eo-2f8d46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/ayushhh0eo)
 [![HackerRank](https://img.shields.io/badge/HackerRank-ayushh__ofc10-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ayushh_ofc10)
-
-</div>
-
----
-
-<!-- GitHub Trophies -->
-<div align="center">
-
-## 🥇 GitHub Trophies
-
-<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/trophy.png" alt="GitHub Trophies" width="100%"/>
 
 </div>
 
@@ -86,48 +71,19 @@
 ## ⚙️ Tech Stack
 
 **Languages**
-
-<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/c.png" height="40" alt="C"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/c++.png" height="40" alt="C++"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/python.png" height="40" alt="Python"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/js.jpeg" height="40" alt="JavaScript"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/html.png" height="40" alt="HTML"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/css.png" height="40" alt="CSS"/>
-
-<br/><br/>
+<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/c.png" height="40" alt="C"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/c++.png" height="40" alt="C++"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/python.png" height="40" alt="Python"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/js.jpeg" height="40" alt="JavaScript"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/html.png" height="40" alt="HTML"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/css.png" height="40" alt="CSS"/>
 
 **Frontend**
-
-<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/react.png" height="40" alt="React"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=gsap" height="40" alt="GSAP"/>
-
-<br/><br/>
+<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/react.png" height="40" alt="React"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=gsap" height="40" alt="GSAP"/>
 
 **Backend**
-
-<img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="FastAPI"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=graphql" height="40" alt="GraphQL"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/nodejs.jpeg" height="40" alt="Node.js"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/expressjs.png" height="40" alt="Express.js"/>
-
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="FastAPI"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=graphql" height="40" alt="GraphQL"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/nodejs.jpeg" height="40" alt="Node.js"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/expressjs.png" height="40" alt="Express.js"/>
 
 **Databases**
-
-<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/mongodb.png" height="40" alt="MongoDB"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="PostgreSQL"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=neo4j" height="40" alt="Neo4j"/>
-
-<br/><br/>
+<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/mongodb.png" height="40" alt="MongoDB"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="PostgreSQL"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=neo4j" height="40" alt="Neo4j"/>
 
 **Tools & DevOps**
-
-<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/git.png" height="40" alt="Git"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/linux.png" height="40" alt="Linux"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/docker.png" height="40" alt="Docker"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=nginx" height="40" alt="Nginx"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/postman.png" height="40" alt="Postman"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=neovim" height="40" alt="Neovim"/>
+<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/git.png" height="40" alt="Git"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/linux.png" height="40" alt="Linux"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/docker.png" height="40" alt="Docker"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nginx" height="40" alt="Nginx"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/postman.png" height="40" alt="Postman"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=neovim" height="40" alt="Neovim"/>
 
 </div>
 
