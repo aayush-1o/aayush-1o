@@ -2,7 +2,7 @@
 <div align="center">
 
 <a href="https://ayushh-portfolio-2026.netlify.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=0077B6&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=I+build+software+engineers+actually+rely+on.;API+platforms+%C2%B7+Dev+tooling+%C2%B7+Systems+thinking.;B.Tech+CSE+%C2%B7+Bangalore+%C2%B7+Actively+seeking+SWE+internships." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=900&color=0077B6&center=true&vCenter=true&width=600&lines=I+build+software+engineers+actually+rely+on+%F0%9F%9B%A0%EF%B8%8F;B.Tech+CSE+%C2%B7+Bangalore+%C2%B7+Actively+seeking+SWE+internships+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 # Ayush Kumar &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
@@ -37,9 +37,9 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=aayush-1o&show_icons=true&theme=default&border_color=0077B6&title_color=0077B6&icon_color=0077B6&hide_border=false" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=aayush-1o&show_icons=true&theme=default&border_color=0077B6&title_color=0077B6&icon_color=0077B6" height="180" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush-1o&layout=compact&theme=default&border_color=0077B6&title_color=0077B6&hide_border=false" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush-1o&layout=compact&theme=default&border_color=0077B6&title_color=0077B6" height="180" />
 &nbsp;&nbsp;
 <img src="https://streak-stats.demolab.com/?user=aayush-1o&theme=default&ring=0077B6&fire=0077B6&currStreakLabel=0077B6" height="180" />
 
