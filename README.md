@@ -16,7 +16,7 @@
 B.Tech CSE student from Bangalore who loves turning complex problems into clean, elegant software. I specialize in building **API-driven platforms** and **developer tooling** — the kind of software other engineers actually rely on. Equal parts systems thinker and curious builder.
 
 - 🔭 **Currently Building:** An API-driven platform that provisions, tracks, and validates the entire workspace configuration process from a single interface
-- 📖 **Currently Learning:** Apache Kafka • Apache Spark • React.js • Linux Internals
+- 📖 **Currently Learning:** Apache Kafka • Apache Spark • React.js Advanced Patterns • Linux Internals
 - 🤝 **Open To:** Open source collaborations & SWE / Backend internship opportunities
 - 💬 **Ask Me About:** DSA & Web Development
 - ✉️ **Reach Me At:** [ayushh.pvt10@gmail.com](mailto:ayushh.pvt10@gmail.com)
@@ -86,9 +86,42 @@ B.Tech CSE student from Bangalore who loves turning complex problems into clean,
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,fastapi,graphql,nodejs" />
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,neo4j,docker,git,linux,nginx,postman" />
+#### 💻 Languages
+
+<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/c.png" width="40" height="40" style="margin:10px" title="C" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/c++.png" width="40" height="40" style="margin:10px" title="C++" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=python" width="40" height="40" style="margin:10px" title="Python" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/js.jpeg" width="40" height="40" style="margin:10px" title="JavaScript" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/html.png" width="40" height="40" style="margin:10px" title="HTML5" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/css.png" width="40" height="40" style="margin:10px" title="CSS3" />
+
+#### 🌐 Frontend
+
+<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/react.png" width="40" height="40" style="margin:10px" title="React" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=graphql" width="40" height="40" style="margin:10px" title="GraphQL" />
+
+#### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" style="margin:10px" title="FastAPI" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/nodejs.jpeg" width="40" height="40" style="margin:10px" title="Node.js" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/expressjs.png" width="40" height="40" style="margin:10px" title="Express.js" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/restAPI.png" width="40" height="40" style="margin:10px" title="REST APIs" />
+
+#### 🗄️ Databases
+
+<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/mongodb.png" width="40" height="40" style="margin:10px" title="MongoDB" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" style="margin:10px" title="PostgreSQL" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/mysql.png" width="40" height="40" style="margin:10px" title="MySQL" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=neo4j" width="40" height="40" style="margin:10px" title="Neo4j" />
+
+#### 🛠️ Tools & DevOps
+
+<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/git and github.png" width="40" height="40" style="margin:10px" title="Git" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/linux.png" width="40" height="40" style="margin:10px" title="Linux" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/docker.png" width="40" height="40" style="margin:10px" title="Docker" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nginx" width="40" height="40" style="margin:10px" title="Nginx" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/postman.png" width="40" height="40" style="margin:10px" title="Postman" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/vscode.jpeg" width="40" height="40" style="margin:10px" title="VS Code" />
 
 </div>
 
@@ -108,10 +141,9 @@ B.Tech CSE student from Bangalore who loves turning complex problems into clean,
 
 AI-driven knowledge graph platform for semantic data exploration using NLP, Neo4j, and interactive visualization.
 
-**Tech Stack:**
-`Python` `FastAPI` `React` `Neo4j` `Docker`
+**Tech:** `Python` `FastAPI` `React` `Neo4j` `Docker`
 
-[![Repo](https://img.shields.io/badge/GitHub-Repo-023E8A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aayush-1o/CortexGraph)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-023E8A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aayush-1o/CortexGraph)
 
 </td>
     <td width="50%" valign="top">
@@ -122,10 +154,9 @@ AI-driven knowledge graph platform for semantic data exploration using NLP, Neo4
 
 Paste a GitHub URL, get a working Docker environment in minutes. MERN stack + Docker automation — onboarding the way it should be.
 
-**Tech Stack:**
-`JavaScript` `PowerShell` `Docker` `MERN Stack`
+**Tech:** `JavaScript` `PowerShell` `Docker` `MERN Stack`
 
-[![Repo](https://img.shields.io/badge/GitHub-Repo-023E8A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aayush-1o/Onboarder)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-023E8A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aayush-1o/Onboarder)
 
 </td>
   </tr>
@@ -138,10 +169,9 @@ Paste a GitHub URL, get a working Docker environment in minutes. MERN stack + Do
 
 Python benchmark system for AutoPrompt performance evaluation using Google Gemini AI for review processing and data extraction.
 
-**Tech Stack:**
-`Python` `Jupyter Notebook` `Docker` `Google Gemini API`
+**Tech:** `Python` `Jupyter Notebook` `Docker` `Google Gemini API`
 
-[![Repo](https://img.shields.io/badge/GitHub-Repo-023E8A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aayush-1o/auto-Prompt)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-023E8A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aayush-1o/auto-Prompt)
 
 </td>
     <td width="50%" valign="top">
@@ -152,10 +182,9 @@ Python benchmark system for AutoPrompt performance evaluation using Google Gemin
 
 Modern freight and logistics dashboard with clean UI, responsive design, and modular frontend architecture.
 
-**Tech Stack:**
-`HTML` `JavaScript` `CSS` `Docker`
+**Tech:** `HTML` `JavaScript` `CSS` `Docker`
 
-[![Repo](https://img.shields.io/badge/GitHub-Repo-023E8A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aayush-1o/truck)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-023E8A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aayush-1o/truck)
 
 </td>
   </tr>
@@ -206,7 +235,7 @@ Modern freight and logistics dashboard with clean UI, responsive design, and mod
 &nbsp;
 [![HackerRank](https://img.shields.io/badge/HackerRank-ayushh__ofc10-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ayushh_ofc10)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-ayushh.pvt10%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushh.pvt10@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ayushh.pvt10@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushh.pvt10@gmail.com)
 
 <br/><br/>
 
