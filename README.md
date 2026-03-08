@@ -1,15 +1,13 @@
 <!-- Header -->
 <div align="center">
 
-<a href="https://ayushh-portfolio-2026.netlify.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=900&color=0077B6&center=true&vCenter=true&width=600&lines=I+build+software+engineers+actually+rely+on+%F0%9F%9B%A0%EF%B8%8F;B.Tech+CSE+%C2%B7+Bangalore+%C2%B7+Actively+seeking+SWE+internships+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=900&color=C084FC&center=true&vCenter=true&width=600&lines=I+build+software+engineers+actually+rely+on+%F0%9F%9B%A0%EF%B8%8F;B.Tech+CSE+%C2%B7+Bangalore+%C2%B7+Actively+seeking+SWE+internships+%F0%9F%9A%80" alt="Typing SVG" />
 
 # Ayush Kumar &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
 
 **`Software Engineer · Builder · Systems Thinker`**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0077B6?style=for-the-badge&logo=netlify&logoColor=white)](https://ayushh-portfolio-2026.netlify.app/) [![Resume](https://img.shields.io/badge/Resume-View%20PDF-023E8A?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1kxhlvHqskwSOJeUYulpRN-Qe_HNPuN1w/view?usp=drive_link) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushh-o1/) [![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushh.pvt10@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-C084FC?style=for-the-badge&logo=netlify&logoColor=white)](https://ayushh-portfolio-2026.netlify.app/) [![Resume](https://img.shields.io/badge/Resume-View%20PDF-38BDF8?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1kxhlvHqskwSOJeUYulpRN-Qe_HNPuN1w/view?usp=drive_link) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushh-o1/) [![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushh.pvt10@gmail.com)
 
 </div>
 
@@ -33,24 +31,15 @@
 ---
 
 <!-- GitHub Stats -->
+<div align="center">
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aayush-1o&show_icons=true&theme=tokyonight&hide_border=true&title_color=C084FC&icon_color=38BDF8&text_color=E2E8F0&bg_color=0D1117&cache_seconds=1800" height="175" />
+<img src="https://github-readme-stats.vercel.app/api?username=aayush-1o&show_icons=true&hide_border=true&title_color=C084FC&icon_color=38BDF8&text_color=E2E8F0&bg_color=0D1117&cache_seconds=1800" height="170" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush-1o&layout=compact&theme=tokyonight&hide_border=true&title_color=C084FC&text_color=E2E8F0&bg_color=0D1117&cache_seconds=1800" height="175" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush-1o&layout=compact&hide_border=true&title_color=C084FC&text_color=E2E8F0&bg_color=0D1117&cache_seconds=1800" height="170" />
 
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=aayush-1o&theme=tokyonight&hide_border=true&ring=C084FC&fire=38BDF8&currStreakLabel=C084FC&sideLabels=38BDF8&dates=94A3B8&background=0D1117" height="175" />
-
-</div>
-
-<div align="center">
+<img src="https://streak-stats.demolab.com/?user=aayush-1o&hide_border=true&ring=C084FC&fire=38BDF8&currStreakLabel=C084FC&sideLabels=38BDF8&dates=94A3B8&background=0D1117&stroke=C084FC" height="170" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aayush-1o&theme=tokyo-night&hide_border=true&area=true&color=38BDF8&line=C084FC&point=E2E8F0" width="95%" />
 
@@ -65,7 +54,7 @@
 
 <img src="https://leetcard.jacoblin.cool/tZbaWZwiWk?theme=dark&font=Nunito&ext=contest" />
 
-<br><br>
+<br>
 
 [![GFG](https://img.shields.io/badge/GeeksforGeeks-ayushhh0eo-2f8d46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/ayushhh0eo)
 [![HackerRank](https://img.shields.io/badge/HackerRank-ayushh__ofc10-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/ayushh_ofc10)
@@ -79,19 +68,24 @@
 
 ## 🧰 Tech Stack
 
-**Languages**
+**💻 Languages**
+
 <img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/c.png" height="40" alt="C"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/c++.png" height="40" alt="C++"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/js.jpeg" height="40" alt="JavaScript"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/html.png" height="40" alt="HTML"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/css.png" height="40" alt="CSS"/>
 
-**Frontend**
+**🌐 Frontend**
+
 <img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/react.png" height="40" alt="React"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=gsap" height="40" alt="GSAP"/>
 
-**Backend**
+**⚙️ Backend**
+
 <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="FastAPI"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=graphql" height="40" alt="GraphQL"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/nodejs.jpeg" height="40" alt="Node.js"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/expressjs.png" height="40" alt="Express.js"/>
 
-**Databases**
+**🗄️ Databases**
+
 <img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/mongodb.png" height="40" alt="MongoDB"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="PostgreSQL"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=neo4j" height="40" alt="Neo4j"/>
 
-**Tools & DevOps**
+**🛠️ Tools & DevOps**
+
 <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/linux.png" height="40" alt="Linux"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/docker.png" height="40" alt="Docker"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nginx" height="40" alt="Nginx"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/postman.png" height="40" alt="Postman"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=neovim" height="40" alt="Neovim"/>
 
 </div>
@@ -117,9 +111,7 @@
         <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white"/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       </p>
-      <a href="https://github.com/aayush-1o/CortexGraph">
-        <img src="https://img.shields.io/badge/View%20Repo-0077B6?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
+      <a href="https://github.com/aayush-1o/CortexGraph"><img src="https://img.shields.io/badge/View%20Repo-C084FC?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
       <h3>📦 <a href="https://github.com/aayush-1o/Onboarder">Onboarder</a></h3>
@@ -130,9 +122,7 @@
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
       </p>
-      <a href="https://github.com/aayush-1o/Onboarder">
-        <img src="https://img.shields.io/badge/View%20Repo-0077B6?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
+      <a href="https://github.com/aayush-1o/Onboarder"><img src="https://img.shields.io/badge/View%20Repo-C084FC?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
   </tr>
   <tr>
@@ -145,9 +135,7 @@
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
         <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white"/>
       </p>
-      <a href="https://github.com/aayush-1o/auto-Prompt">
-        <img src="https://img.shields.io/badge/View%20Repo-0077B6?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
+      <a href="https://github.com/aayush-1o/auto-Prompt"><img src="https://img.shields.io/badge/View%20Repo-C084FC?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
       <h3>🚛 <a href="https://github.com/aayush-1o/truck">Truck</a></h3>
@@ -158,9 +146,7 @@
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       </p>
-      <a href="https://github.com/aayush-1o/truck">
-        <img src="https://img.shields.io/badge/View%20Repo-0077B6?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
+      <a href="https://github.com/aayush-1o/truck"><img src="https://img.shields.io/badge/View%20Repo-C084FC?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
   </tr>
 </table>
@@ -172,9 +158,9 @@
 
 ## 📚 Currently Learning
 
-| Topic | Area | Status |
-|-------|------|--------|
-| � Apache Kafka | Distributed Stream Processing | 🟡 In Progress |
+| 🔥 Topic | 📂 Area | ⚡ Status |
+|---------|---------|---------|
+| 🟠 Apache Kafka | Distributed Stream Processing | 🟡 In Progress |
 | ⚡ Apache Spark | Big Data & Analytics | 🟡 In Progress |
 | ⚛️ React Advanced Patterns | Frontend Architecture | 🟡 In Progress |
 | 🐧 Linux Internals | Systems Programming | 🟡 In Progress |
@@ -188,7 +174,7 @@
 
 ## 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aayush-1o&theme=github-light&color=0077B6&line=0077B6&point=023E8A&hide_border=true" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aayush-1o&theme=tokyo-night&hide_border=true&area=true&color=38BDF8&line=C084FC&point=E2E8F0" width="95%" />
 
 </div>
 
@@ -199,8 +185,8 @@
 
 ## 🤝 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0077B6?style=for-the-badge&logo=netlify&logoColor=white)](https://ayushh-portfolio-2026.netlify.app/)
-[![Resume](https://img.shields.io/badge/Resume-View%20PDF-023E8A?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1kxhlvHqskwSOJeUYulpRN-Qe_HNPuN1w/view?usp=drive_link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-C084FC?style=for-the-badge&logo=netlify&logoColor=white)](https://ayushh-portfolio-2026.netlify.app/)
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-38BDF8?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1kxhlvHqskwSOJeUYulpRN-Qe_HNPuN1w/view?usp=drive_link)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Kumar-0077B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushh-o1/)
 [![Email](https://img.shields.io/badge/Email-ayushh.pvt10@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushh.pvt10@gmail.com)
 
