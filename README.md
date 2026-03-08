@@ -37,15 +37,23 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aayush-1o&show_icons=true&theme=tokyonight&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=aayush-1o&show_icons=true&theme=tokyonight&hide_border=true&title_color=C084FC&icon_color=38BDF8&text_color=E2E8F0&bg_color=0D1117&cache_seconds=1800" height="175" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush-1o&layout=compact&theme=tokyonight&hide_border=true&title_color=70a5fd&text_color=38bdae&bg_color=1a1b27" height="170" />
-&nbsp;
-<img src="https://streak-stats.demolab.com/?user=aayush-1o&theme=tokyonight&hide_border=true&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae&sideLabels=70a5fd&dates=888" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush-1o&layout=compact&theme=tokyonight&hide_border=true&title_color=C084FC&text_color=E2E8F0&bg_color=0D1117&cache_seconds=1800" height="175" />
+
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aayush-1o&theme=tokyo-night&hide_border=true&area=true&area_color=70a5fd" width="95%" />
+
+<img src="https://streak-stats.demolab.com/?user=aayush-1o&theme=tokyonight&hide_border=true&ring=C084FC&fire=38BDF8&currStreakLabel=C084FC&sideLabels=38BDF8&dates=94A3B8&background=0D1117" height="175" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aayush-1o&theme=tokyo-night&hide_border=true&area=true&color=38BDF8&line=C084FC&point=E2E8F0" width="95%" />
+
 </div>
 
 ---
