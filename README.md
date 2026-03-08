@@ -9,10 +9,7 @@
 
 **`Software Engineer · Builder · Systems Thinker`**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0077B6?style=for-the-badge&logo=netlify&logoColor=white)](https://ayushh-portfolio-2026.netlify.app/)
-[![Resume](https://img.shields.io/badge/Resume-View%20PDF-023E8A?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1kxhlvHqskwSOJeUYulpRN-Qe_HNPuN1w/view?usp=drive_link)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Kumar-0077B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushh-o1/)
-[![Email](https://img.shields.io/badge/Email-ayushh.pvt10@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushh.pvt10@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0077B6?style=for-the-badge&logo=netlify&logoColor=white)](https://ayushh-portfolio-2026.netlify.app/) [![Resume](https://img.shields.io/badge/Resume-View%20PDF-023E8A?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1kxhlvHqskwSOJeUYulpRN-Qe_HNPuN1w/view?usp=drive_link) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushh-o1/) [![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushh.pvt10@gmail.com)
 
 </div>
 
@@ -55,11 +52,12 @@
 
 ## 🏆 Competitive Programming
 
-<img src="https://leetcard.jacoblin.cool/tZbaWZwiWk?theme=light&font=Nunito&ext=contest" alt="LeetCode Stats" width="420"/>
-<br/>
-[![LeetCode](https://img.shields.io/badge/LeetCode-tZbaWZwiWk-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/tZbaWZwiWk/)
+<img src="https://leetcard.jacoblin.cool/tZbaWZwiWk?theme=light&font=Nunito&ext=contest" />
+
+<br><br>
+
 [![GFG](https://img.shields.io/badge/GeeksforGeeks-ayushhh0eo-2f8d46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/ayushhh0eo)
-[![HackerRank](https://img.shields.io/badge/HackerRank-ayushh__ofc10-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ayushh_ofc10)
+[![HackerRank](https://img.shields.io/badge/HackerRank-ayushh__ofc10-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/ayushh_ofc10)
 
 </div>
 
@@ -71,7 +69,7 @@
 ## ⚙️ Tech Stack
 
 **Languages**
-<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/c.png" height="40" alt="C"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/c++.png" height="40" alt="C++"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/python.png" height="40" alt="Python"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/js.jpeg" height="40" alt="JavaScript"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/html.png" height="40" alt="HTML"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/css.png" height="40" alt="CSS"/>
+<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/c.png" height="40" alt="C"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/c++.png" height="40" alt="C++"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/js.jpeg" height="40" alt="JavaScript"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/html.png" height="40" alt="HTML"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/css.png" height="40" alt="CSS"/>
 
 **Frontend**
 <img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/react.png" height="40" alt="React"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=gsap" height="40" alt="GSAP"/>
@@ -83,7 +81,7 @@
 <img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/mongodb.png" height="40" alt="MongoDB"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="PostgreSQL"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=neo4j" height="40" alt="Neo4j"/>
 
 **Tools & DevOps**
-<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/git.png" height="40" alt="Git"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/linux.png" height="40" alt="Linux"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/docker.png" height="40" alt="Docker"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nginx" height="40" alt="Nginx"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/postman.png" height="40" alt="Postman"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=neovim" height="40" alt="Neovim"/>
+<img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/linux.png" height="40" alt="Linux"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/docker.png" height="40" alt="Docker"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nginx" height="40" alt="Nginx"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/aayush-1o/aayush-1o/main/assets/postman.png" height="40" alt="Postman"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=neovim" height="40" alt="Neovim"/>
 
 </div>
 
