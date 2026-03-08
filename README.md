@@ -2,7 +2,7 @@
 
 # Hey there, I'm Ayush Kumar 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=1000&color=0077B6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ayush+Kumar+%F0%9F%91%8B;Curious+Developer+%F0%9F%9A%80;DSA+%2B+Web+Dev+Enthusiast+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%8C%8D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=0077B6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ayush+Kumar+%F0%9F%91%8B;B.Tech+CSE+%7C+Bangalore%2C+India;Building+Tools+Engineers+Actually+Use+%F0%9F%9B%A0%EF%B8%8F;DSA+%2B+Systems+%2B+Web+Dev+%F0%9F%92%BB;Open+to+Internships+%26+Collaborations+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
@@ -41,13 +41,13 @@ B.Tech CSE student from Bangalore who loves turning complex problems into clean,
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=aayush-1o&show_icons=true&theme=default&border_color=0077B6&title_color=0077B6&icon_color=0077B6" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=aayush-1o&show_icons=true&theme=default&border_color=0077B6&title_color=0077B6&icon_color=0077B6&hide_border=false" alt="GitHub Stats" />
     </td>
     <td>
       <img src="https://streak-stats.demolab.com/?user=aayush-1o&theme=default&ring=0077B6&fire=0077B6&currStreakLabel=0077B6" alt="GitHub Streak" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush-1o&layout=compact&theme=default&border_color=0077B6&title_color=0077B6" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush-1o&layout=compact&theme=default&border_color=0077B6&title_color=0077B6&hide_border=false" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -60,7 +60,7 @@ B.Tech CSE student from Bangalore who loves turning complex problems into clean,
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aayush-1o&theme=flat&no-bg=true&no-frame=true&column=7&margin-w=4" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=aayush-1o&theme=flat&no-bg=true&no-frame=true&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 
 </div>
 
