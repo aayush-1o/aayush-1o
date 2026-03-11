@@ -162,12 +162,22 @@
 
 ## 📊 GitHub Stats
 
-<!-- nirzak-streak-stats is more reliable than demolab for streaks -->
-<img src="https://nirzak-streak-stats.vercel.app/?user=aayush-1o&theme=dark&hide_border=true&ring=C084FC&fire=38BDF8&currStreakLabel=C084FC&sideLabels=38BDF8&dates=94A3B8&background=0D1117&stroke=C084FC" height="170" />
+<!-- Profile Summary Cards — replicates the dashboard panels in the screenshot:
+     card_0 = overall stats (contributions, repos, joined date)
+     card_1 = commits by hour chart (matches "Commits UTC" panel)
+     card_2 = top languages donut (matches "Top Languages by Repo" panel)
+     card_3 = repos contributed to
+     card_4 = productive time card
+     theme=github_dark matches the dark navy background in the screenshot -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aayush-1o&theme=github_dark" width="95%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=aayush-1o&show_icons=true&hide_border=true&title_color=C084FC&icon_color=38BDF8&text_color=E2E8F0&bg_color=0D1117" height="170" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush-1o&layout=compact&hide_border=true&title_color=C084FC&text_color=E2E8F0&bg_color=0D1117&langs_count=8" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aayush-1o&theme=github_dark" height="180" />&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aayush-1o&theme=github_dark" height="180" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aayush-1o&theme=github_dark" height="180" />&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aayush-1o&theme=github_dark&utcOffset=+5.30" height="180" />
 
 <br/>
 
@@ -176,16 +186,13 @@
 
 <br/>
 
-<!-- Trophies: radical theme swapped to match dark purple palette -->
+<!-- Streak stats -->
+<img src="https://nirzak-streak-stats.vercel.app/?user=aayush-1o&theme=dark&hide_border=true&ring=C084FC&fire=38BDF8&currStreakLabel=C084FC&sideLabels=38BDF8&dates=94A3B8&background=0D1117&stroke=C084FC" />
+
+<br/>
+
+<!-- Trophies -->
 ![Trophies](https://github-profile-trophy.vercel.app/?username=aayush-1o&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-<br/>
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<br/>
-
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=aayush-1o&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
 
