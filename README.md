@@ -160,10 +160,32 @@
   ============================================================ -->
 <div align="center">
 
-## 📊 Activity
+## 📊 GitHub Stats
+
+<!-- nirzak-streak-stats is more reliable than demolab for streaks -->
+<img src="https://nirzak-streak-stats.vercel.app/?user=aayush-1o&theme=dark&hide_border=true&ring=C084FC&fire=38BDF8&currStreakLabel=C084FC&sideLabels=38BDF8&dates=94A3B8&background=0D1117&stroke=C084FC" height="170" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=aayush-1o&show_icons=true&hide_border=true&title_color=C084FC&icon_color=38BDF8&text_color=E2E8F0&bg_color=0D1117" height="170" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush-1o&layout=compact&hide_border=true&title_color=C084FC&text_color=E2E8F0&bg_color=0D1117&langs_count=8" height="170" />
+
+<br/>
 
 <!-- Activity graph: reliable, visually impressive, no auth needed -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aayush-1o&theme=tokyo-night&hide_border=true&area=true&color=38BDF8&line=C084FC&point=E2E8F0" width="95%" />
+
+<br/>
+
+<!-- Trophies: radical theme swapped to match dark purple palette -->
+![Trophies](https://github-profile-trophy.vercel.app/?username=aayush-1o&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+<br/>
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<br/>
+
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=aayush-1o&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
 
